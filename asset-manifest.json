@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/frontend-reactgram/static/css/main.a6262a2c.css",
+    "main.js": "/frontend-reactgram/static/js/main.35e137a7.js",
+    "index.html": "/frontend-reactgram/index.html",
+    "main.a6262a2c.css.map": "/frontend-reactgram/static/css/main.a6262a2c.css.map",
+    "main.35e137a7.js.map": "/frontend-reactgram/static/js/main.35e137a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6262a2c.css",
+    "static/js/main.35e137a7.js"
+  ]
+}
