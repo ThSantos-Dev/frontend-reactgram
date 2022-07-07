@@ -1,0 +1,24 @@
+#home {
+    width: 50%;
+
+    margin: 0 auto;
+}
+
+#home .btn {
+    max-width: 80px;
+
+    text-align: center;
+
+    display: block;
+
+    margin: .5rem 0 2rem 0;
+}
+
+.no-photos {
+    text-align: center;
+}
+
+.no-photos a {
+    color: #0094f6;
+}
+

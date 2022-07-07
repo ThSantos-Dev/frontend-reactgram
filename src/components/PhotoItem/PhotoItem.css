@@ -1,0 +1,32 @@
+.photo-item {
+    text-align: center;
+}
+
+.photo-item img {
+    width: 100%;
+}
+
+.photo-item h2 {
+    padding: 1.2rem 0px;
+}
+
+#home .photo-item {
+    text-align: left;
+}
+
+#home .photo-item h2 {
+    margin-bottom: 1.2rem;
+}
+
+
+.photo-author {
+    text-align: left;
+    padding-bottom: 2rem;
+}
+
+.photo-author a {
+    font-weight: bold;
+}
+
+
+

@@ -1,0 +1,31 @@
+#edit-profile {
+    max-width: 40%;
+
+    text-align: center;
+
+    padding: 1.5rem 2rem;
+    margin: 2rem auto;
+
+    border: 1px solid #363636;
+}
+
+#edit-profile h2 {
+    margin-bottom: 20px;
+}
+
+.subtitle {
+    font-weight: bold;
+    color: #999;    
+}
+
+#edit-profile .subtitle {
+    margin-bottom: 20px;
+}
+
+.profile-image {
+    width: 150px;
+    height: 150px;
+
+    border-radius: 50%;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,75 @@
+#profile {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.profile-header {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+
+    padding: 1rem;
+
+    border-bottom: 1px solid rgb(219, 219, 219);
+}
+
+.profile-header img {
+    width: 100px;
+    height: 100px;
+
+    border-radius: 50%;
+
+    margin-right: 2rem;
+}
+
+.new-photo {
+    padding: 1rem;
+    border-bottom: 1px solid rgb(219, 219, 219);
+}
+
+.new-photo h3,
+.user-photos h2 {
+    padding: 1rem 0px;
+}
+
+.photos-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2%;
+}
+
+.photo {
+    width: 32%;
+}
+
+.photo img {
+    width: 100%;
+}
+
+.actions {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+    padding: 10px;
+}
+
+.actions .btn {
+    color: #222;
+    background-color: transparent;
+}
+
+.actions svg {
+    cursor: pointer;
+}
+
+.edit-photo {
+    margin-bottom: 1rem;
+}
+
+.edit-photo img {
+    width: 100%;
+
+    margin-bottom: 1rem;
+}
+

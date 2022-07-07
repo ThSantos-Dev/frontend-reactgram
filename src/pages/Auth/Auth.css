@@ -1,0 +1,52 @@
+#register,
+#login {
+    max-width: 428px;
+    width: 33%;
+
+    text-align: center;
+
+    display: flex;
+    flex-direction: column;
+    gap: .7rem;
+
+    margin: 2rem auto;
+    padding: 2rem 2.5rem;
+    
+    border: 1px solid rgb(219, 219, 219);
+
+    background-color: #fff;
+}
+
+#register p a,
+#login p a {
+    font-weight: bold;
+    color: rgba(0, 149, 246);
+
+    transition: .4s;
+}
+
+#register p a:hover,
+#login p a:hover {
+    color: rgba(0, 149, 246);
+
+    text-decoration: underline;
+}
+
+#register h2,
+#login h2 {
+    text-align: center;
+    font-size: 2.1rem;
+}
+
+.subtitle {
+    font-weight: bold;
+    color: #999;
+}
+
+#register form,
+#login form {
+    padding-bottom: 1.5rem;
+    margin-bottom: 1.5rem;
+
+    border-bottom: 1px solid #363636;
+}
